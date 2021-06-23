@@ -2,4 +2,6 @@
 
 ## Indiquez votre nom : 
 
+
 Sébastien Bédard
+Thierry Paquet
