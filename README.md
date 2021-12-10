@@ -5,4 +5,5 @@
 - Marc-Antoine St-Hilaire
 - Olivier Julien
 - Gabriel Tremblay
+- kristopher maltais
 
