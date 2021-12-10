@@ -6,4 +6,4 @@
 - Olivier Julien
 - Gabriel Tremblay
 - kristopher maltais
-
+- Alex Rivard
