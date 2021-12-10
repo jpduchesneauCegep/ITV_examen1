@@ -3,6 +3,6 @@
 ## Indiquez votre nom : 
 
 
-Sébastien Bédard
-Thierry Paquet
-Olivier Julien
+- Marc-Antoine St-Hilaire
+- Olivier Julien
+
