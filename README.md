@@ -2,6 +2,8 @@
 
 ## Indiquez votre nom : 
 
-kristopher maltais
-Sébastien Bédard
-Thierry Paquet
+- Marc-Antoine St-Hilaire
+- Olivier Julien
+- Gabriel Tremblay
+- kristopher maltais
+
