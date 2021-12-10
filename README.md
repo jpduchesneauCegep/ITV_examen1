@@ -2,8 +2,7 @@
 
 ## Indiquez votre nom : 
 
+- Marc-Antoine St-Hilaire
+- Olivier Julien
+- Gabriel Tremblay
 
-Sébastien Bédard
-Thierry Paquet
-
-Gabriel Tremblay
