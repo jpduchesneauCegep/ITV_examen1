@@ -2,4 +2,5 @@
 
 ## Indiquez votre nom : 
 
-Marc-Antoine St-Hilaire
+- Marc-Antoine St-Hilaire
+- Olivier Julien
