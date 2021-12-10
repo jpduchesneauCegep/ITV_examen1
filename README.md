@@ -10,4 +10,4 @@
 - Yann Martel
 - Alex Rivard
 - Nicolas Lavigne
-
+- Michael Perron
