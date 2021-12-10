@@ -8,3 +8,5 @@
 - kristopher maltais
 - Jean-Sébastien Durette
 - Yann Martel
+- Alex Rivard
+
