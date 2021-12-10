@@ -8,3 +8,4 @@
 - kristopher maltais
 - Jean-Sébastien Durette
 - Yann Martel
+- Raphael Bergeron-Larose
