@@ -6,4 +6,12 @@
 - Olivier Julien
 - Gabriel Tremblay
 - kristopher maltais
+- Jean-Sébastien Durette
+- Yann Martel
+- Alex Rivard
+- Nicolas Lavigne
+- Simon Bergeron-Girard
+- Raphael Bergeron-Larose
 - sidi Allaf
+
+
