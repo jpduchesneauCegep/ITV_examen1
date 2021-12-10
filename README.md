@@ -13,5 +13,6 @@
 - Simon Bergeron-Girard
 - Raphael Bergeron-Larose
 - sidi Allaf
+- Tristan Hammel
 
 
