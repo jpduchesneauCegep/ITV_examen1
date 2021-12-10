@@ -14,5 +14,5 @@
 - Raphael Bergeron-Larose
 - sidi Allaf
 - Tristan Hammel
-
+- Michael Perron
 
