@@ -7,3 +7,4 @@
 - Gabriel Tremblay
 - kristopher maltais
 - Jean-Sébastien Durette
+- Yann Martel
