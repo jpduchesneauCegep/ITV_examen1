@@ -6,4 +6,5 @@
 - Olivier Julien
 - Gabriel Tremblay
 - kristopher maltais
+- Yann Martel
 
