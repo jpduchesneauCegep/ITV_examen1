@@ -10,4 +10,5 @@
 - Yann Martel
 - Alex Rivard
 - Nicolas Lavigne
+- Simon Bergeron-Girard
 
