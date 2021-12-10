@@ -9,4 +9,5 @@
 - Jean-Sébastien Durette
 - Yann Martel
 - Alex Rivard
+- Nicolas Lavigne
 
