@@ -5,3 +5,5 @@
 
 Sébastien Bédard
 Thierry Paquet
+
+Gabriel Tremblay
