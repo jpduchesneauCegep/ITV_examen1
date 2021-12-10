@@ -8,4 +8,8 @@
 - kristopher maltais
 - Jean-Sébastien Durette
 - Yann Martel
+- Alex Rivard
+- Nicolas Lavigne
+- Simon Bergeron-Girard
 - Raphael Bergeron-Larose
+
