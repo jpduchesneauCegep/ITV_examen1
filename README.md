@@ -2,7 +2,4 @@
 
 ## Indiquez votre nom : 
 
-
-Sébastien Bédard
-Thierry Paquet
 Marc-Antoine St-Hilaire
