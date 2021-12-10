@@ -11,4 +11,5 @@
 - Alex Rivard
 - Nicolas Lavigne
 - Simon Bergeron-Girard
+- Raphael Bergeron-Larose
 
